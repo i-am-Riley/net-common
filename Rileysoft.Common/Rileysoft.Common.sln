@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rileysoft.Common", "Rileysoft.Common\Rileysoft.Common.csproj", "{A94CC484-5F68-489E-A725-0BE4623944A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rileysoft.Common.Tests", "Rileysoft.Common.Tests\Rileysoft.Common.Tests.csproj", "{65578566-EE84-42EA-A328-26097FD99BB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A94CC484-5F68-489E-A725-0BE4623944A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A94CC484-5F68-489E-A725-0BE4623944A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A94CC484-5F68-489E-A725-0BE4623944A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A94CC484-5F68-489E-A725-0BE4623944A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65578566-EE84-42EA-A328-26097FD99BB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65578566-EE84-42EA-A328-26097FD99BB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65578566-EE84-42EA-A328-26097FD99BB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65578566-EE84-42EA-A328-26097FD99BB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2A09906-6086-431B-A13C-2DF41FCEDBDE}
+	EndGlobalSection
+EndGlobal
