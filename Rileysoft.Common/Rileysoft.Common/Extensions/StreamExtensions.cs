@@ -1,6 +1,6 @@
 ﻿namespace Rileysoft.Common.Extensions
 {
-    public static class StreamExtensions
+    public static partial class StreamExtensions
     {
         public static uint ReadUnsignedIntLE(this Stream stream)
         {

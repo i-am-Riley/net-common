@@ -6,7 +6,7 @@
     <Nullable>enable</Nullable>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Title>Rileysoft.Common</Title>
-    <Version>1.0.0</Version>
+    <Version>1.1.0</Version>
     <Company>i-am-Riley</Company>
     <Authors>i-am-Riley</Authors>
     <Description>Common methods for .NET 6.0</Description>
@@ -14,7 +14,7 @@
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <RepositoryUrl>https://github.com/i-am-Riley/net-common</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
-    <PackageReleaseNotes>Ported code from Rileysoft.DotHack</PackageReleaseNotes>
+    <PackageReleaseNotes>Added LEB128 support</PackageReleaseNotes>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
