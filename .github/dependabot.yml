@@ -8,9 +8,13 @@ updates:
   - package-ecosystem: "nuget" # See documentation for possible values
     directory: "/Rileysoft.Common/Rileysoft.Common" # Location of package manifests
     schedule:
-      interval: "weekly"
+      interval: "daily"
+    commit-message:
+      prefix: "Dependencies: "
 updates:
   - package-ecosystem: "nuget" # See documentation for possible values
     directory: "/Rileysoft.Common/Rileysoft.Common.Tests" # Location of package manifests
     schedule:
-      interval: "weekly"
+      interval: "daily"
+    commit-message:
+      prefix: "Dependencies: "
